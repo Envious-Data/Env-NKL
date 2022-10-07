@@ -9068,7 +9068,7 @@
     (uuid 7640aa27-1b5f-487c-9d86-0883b8b27b68)
     (property "Reference" "SW2" (id 0) (at 107.315 327.025 0))
     (property "Value" "SW_Push" (id 1) (at 107.315 329.565 0))
-    (property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK" (id 2) (at 107.315 329.565 0)
+    (property "Footprint" "Button_Switch_SMD:SW_SPST_EVQP7A" (id 2) (at 107.315 329.565 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 107.315 329.565 0)
@@ -9748,7 +9748,7 @@
     (uuid fc6b9712-f31f-4f10-8e34-f7d63369a80e)
     (property "Reference" "SW1" (id 0) (at 27.94 304.165 0))
     (property "Value" "SW_Push" (id 1) (at 27.94 306.705 0))
-    (property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK" (id 2) (at 27.94 306.705 0)
+    (property "Footprint" "Button_Switch_SMD:SW_SPST_EVQP7A" (id 2) (at 27.94 306.705 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 27.94 306.705 0)
@@ -10540,10 +10540,10 @@
       (reference "R7") (unit 1) (value "22 0402") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/fc6b9712-f31f-4f10-8e34-f7d63369a80e"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK")
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_EVQP7A")
     )
     (path "/7640aa27-1b5f-487c-9d86-0883b8b27b68"
-      (reference "SW2") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK")
+      (reference "SW2") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_EVQP7A")
     )
     (path "/08ea7032-1cdc-4321-96ba-c671c5da2846"
       (reference "Stab1") (unit 1) (value "MountingHole") (footprint "Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2u")
