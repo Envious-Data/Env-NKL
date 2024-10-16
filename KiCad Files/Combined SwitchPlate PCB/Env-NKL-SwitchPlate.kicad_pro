@@ -64,24 +64,7 @@
           "width": 0.1778
         }
       ],
-      "drc_exclusions": [
-        "clearance|232323716|100038338|be487d9e-016a-433b-8636-2179679413cd|830fa573-793e-48d8-aa85-5d0c1cf54be2",
-        "clearance|336630000|42430000|48b060d5-2522-41a0-8efe-e4cfda642e58|a6c550a5-f903-4000-924e-de16a28b3354",
-        "clearance|337330000|42430000|52c4b29c-f2bb-4fc6-9c21-f23805fdd3e3|a6c550a5-f903-4000-924e-de16a28b3354",
-        "clearance|337630000|42430000|52c4b29c-f2bb-4fc6-9c21-f23805fdd3e3|67c443eb-db3c-4bb7-a356-9d35a6c5dac9",
-        "clearance|338130000|42430000|67c443eb-db3c-4bb7-a356-9d35a6c5dac9|1081dc9b-2044-4bc0-9842-0d71cfbb05df",
-        "clearance|338830000|42430000|f8dd7670-30b8-473a-b442-4c88723e2005|1081dc9b-2044-4bc0-9842-0d71cfbb05df",
-        "clearance|73200000|137600000|9ad54c0c-6943-44c1-b1bc-46952b4a3039|90606504-a734-4502-a1ea-c9fa408c0dd1",
-        "footprint_type_mismatch|333255000|126575000|b187a248-399c-4b0f-b27f-bffc327194a1|00000000-0000-0000-0000-000000000000",
-        "hole_clearance|300720000|114655000|9eba6930-f444-48ae-a331-01d1ef59cf99|d22905ce-41a5-4336-81e2-b86136d2b8cd",
-        "hole_near_hole|302006000|99415000|eecdd3dd-10cd-4c7a-b39e-14226c56ba60|e9a6f907-f702-4d09-be8a-b473f4be35bc",
-        "hole_near_hole|313944000|106400000|8ef65f5c-ca90-4cba-9715-803a43cf0856|5c5279af-3bbc-4b53-abec-e00145b37eae",
-        "hole_near_hole|325882000|99415000|1e10951c-cb97-439f-89bd-579e132baac1|92caa306-1e76-47bc-af30-063d4115ccef",
-        "hole_near_hole|66590000|125400000|20be373b-59de-4a8c-a898-23ac8c825ba6|142b8689-f1f6-47ed-93da-96694135081f",
-        "hole_near_hole|77830000|125400000|0f97c153-04be-4589-859c-d6ff30d995d2|d0114a45-e1ea-47b7-b1bd-2b23575aa425",
-        "solder_mask_bridge|298220002|112210000|0c844de3-025b-4d77-bdd2-112484b889de|9eba6930-f444-48ae-a331-01d1ef59cf99",
-        "solder_mask_bridge|73200000|137600000|90606504-a734-4502-a1ea-c9fa408c0dd1|9ad54c0c-6943-44c1-b1bc-46952b4a3039"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2

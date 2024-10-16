@@ -18272,7 +18272,7 @@
 		(layer "Edge.Cuts")
 		(uuid "ffd871af-238a-4d4d-ad30-58737e58e25b")
 	)
-	(gr_text "EnvKB-TKLQF | Prototype\nhttps://github.com/envious-data"
+	(gr_text "EnvKB-NKL | Prototype\nhttps://github.com/Envious-Data/Env-NKL"
 		(at 392.75 58.3 0)
 		(layer "F.SilkS")
 		(uuid "824ab28c-1a0b-479b-8722-fd6eb09db531")
